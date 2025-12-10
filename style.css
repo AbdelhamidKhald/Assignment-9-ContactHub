@@ -1,0 +1,76 @@
+.logo-icon {
+    width: 45px;
+    height: 45px;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+.avatar {
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+.avatar-big {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+}
+.stat-icon {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+.side-icon {
+    width: 40px;
+    height: 40px;
+}
+.bg1 { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+.bg2 { background: linear-gradient(135deg, #f6d365, #fda085); }
+.bg3 { background: linear-gradient(135deg, #fa709a, #fee140); }
+.btn-primary {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border: none;
+}
+.btn-primary:hover {
+    background: linear-gradient(135deg, #5a6fd6, #6a4190);
+}
+.card-avatar {
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    font-size: 18px;
+}
+.side-avatar {
+    width: 35px;
+    height: 35px;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    font-size: 12px;
+}
+.contact-card {
+    transition: 0.3s;
+}
+.contact-card:hover {
+    border-color: #667eea !important;
+}
+.action-btn {
+    width: 35px;
+    height: 35px;
+}
+.call-btn { background: #e3f2fd; color: #1976d2; }
+.mail-btn { background: #e8f5e9; color: #388e3c; }
+.fav-btn { background: #fff3e0; color: #ccc; }
+.fav-btn.active { color: #ffc107; }
+.edit-btn { background: #f3e5f5; color: #7b1fa2; }
+.del-btn { background: #ffebee; color: #c62828; }
+.info-icon {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+}
+.phone-bg { background: #e3f2fd; color: #1976d2; }
+.email-bg { background: #e8f5e9; color: #388e3c; }
+.address-bg { background: #fff3e0; color: #f57c00; }
+.side-call-btn {
+    width: 30px;
+    height: 30px;
+    background: #e3f2fd;
+    color: #1976d2;
+}
